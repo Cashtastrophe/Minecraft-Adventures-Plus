@@ -3,15 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "v1.0",
-        "releasedAt": 987654321098765,
+        "id": "1.0",
+        "releasedAt": 100,
         "promotions": {
             "downloads": {
-                "modrinth": "https://google.com",
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
             }
-        },
-        "updateType": "major"
-    },
+        }
+    }
 ]
 
 }
