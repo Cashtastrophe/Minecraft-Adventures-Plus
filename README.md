@@ -1,58 +1,46 @@
-# **NAME GOES HERE AS AN IMAGE**
-_Buttons for diffrent platforms_
+Please use Modrinth to download the modpack, it is not downloadable here.
+-
+
+‎ 
+![Minecraft Adventures+](https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/name.png)
+
+‎ 
+![https://github.com/Cashtastrophe/Minecraft-Adventures-Plus](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png) ‎ ‎ ![https://discord.gg/uMMnmnp5Be](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png) 
 > Expaned breif summary goes here.....
 
 ## **✨ Vanilla+**
-> Write blurb about why I made this modpack...
+> I’ve always wanted a modpack that adds features that fit naturally with the game, but the ones I’ve tried either added too much or too little. So I decided to make my own modpack that adds many vanilla+ features without drastically changing the game. I hope you enjoy this modpack just as much as I did making it!
 
 ## **📕 Features**
 
-### 🏔️ Terrain
-> A new type of stuff needs to be typed out here....
+- ### 🌍 Terrain
+  > Explore over 100+ new biomes — from towering volcanoes and floating islands to lush jungles, desert oases, and peaceful aspen forests. All made with vanilla blocks.
 
-### 🏛️ New & Overhauled Structures
-> A new type of stuff needs to be typed out here....
+- ### 🏠 New & Overhauled Structures
+    > Villages, dungeons, temples, ruins, and other structures have been revitalized to make them more of a challenge that grants greater rewards.
+ 
+- ### 🦆 New Mobs
+  > Find more than 50 real-world animals and improved vanilla mobs that bring the world to life, including ducks, elephants, crocodiles, seagulls, and many more.
 
-### 🦆 New Mobs
-> A new type of stuff needs to be typed out here....
+- ### 🍳 Cooking
+  > New crops expand the cooking and baking side of the game. Many meals can be made that grant different beneficial effects the more complex they are.
 
-### 🍳 Cooking
-> Adds new crops such as rice, tomatoes, cabbage, onions, and cantaloupe, along with new meals. Cooking is more involved and requires pots or pans for preparation.
+- ### ⚙️ Quality Of Life Features
+  > Small tweaks make survival, exploration, and building in Minecraft smoother — while keeping a vanilla feel.
 
-### 🏖️ Quality Of Life Features
-> A new type of stuff needs to be typed out here....
+- ### 📅 Seasons
+  > Dynamic seasons shift crops and weather across the year — adding variety, immersion, and new challenges to your world.
 
-### 📅 Seasons
-> Seasons affect crop growth, weather, and leaf colors, creating a dynamic environment.
+- ### 🧭 Navigation & Exploration
+  > The Atlas works as both a mini-map and world map, but unlike most mods it requires maps to expand. While in your invintory, compasses show coordinates, while clocks track days & time.
 
-### 🧭 Navigation & Exploration
-> Introduces an **Atlas** that displays a mini-map and world map. Empty maps are required to explore new areas, and the recipe has been simplified. A clock in your inventory shows game time and days played, while a compass shows coordinates (Atlases display coordinates when equipped).
+- ### ⚡ Optimized & Shaders
+  > Optimized configs ensure smooth performance, with pre-enabled Complementary Reimagined Shaders for an improved graphical experience.
 
-### ⚡Optimized & Shaders
-> A new type of stuff needs to be typed out here....
+‎ 
+----
+‎Bug reports & feedback: [here](https://github.com/Cashtastrophe/Minecraft-Adventures-Plus/issues/new/choose)
 
-## **🔗 Important Stuffs**
-
-<details>
-<summary>Full License Agreement</summary>
-
-# Vanilla+ Modpack License
-
-This modpack is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
-Official CC license: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## Terms
-
-- **Attribution (BY):** You must give appropriate credit to the original author (Vanilla+), provide a link to this modpack, and indicate if changes were made.
-- **NonCommercial (NC):** You may not sell this modpack or any derivative work. (Minecraft’s EULA already prohibits selling.)
-- **ShareAlike (SA):** If you remix, transform, or build upon this modpack, you must distribute your contributions under the same license as this original modpack.
-
-## Hosting Guideline
-
-If you share a modified version of this modpack, we ask that you **host it only on official modpack platforms** such as CurseForge or Modrinth. Please also ensure proper attribution to the original Vanilla+ modpack.
-
-</details>
-
----
+Mod list: [here](https://example.com)
 
 Thank you for downloading my modpack 💖
