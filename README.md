@@ -5,7 +5,7 @@ Please use Modrinth to download the modpack, it is not downloadable here.
 ![Minecraft Adventures+](https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/name.png)
 
 ‎ 
-![https://github.com/Cashtastrophe/Minecraft-Adventures-Plus](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png) ‎ ‎ ![https://discord.gg/uMMnmnp5Be](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png) 
+[‎![GitHub Link](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/Cashtastrophe/Minecraft-Adventures-Plus)‎ ‎  [![Discord Link](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.gg/uMMnmnp5Be)
 > Expaned breif summary goes here.....
 
 ## **✨ Vanilla+**
