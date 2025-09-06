@@ -1,10 +1,8 @@
 Please use Modrinth to download the modpack, it is not downloadable here.
 -
 
-‎ 
 ![Minecraft Adventures+](https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/name.png)
 
-‎ 
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/project/adventures-plus)‎ ‎  [‎![GitHub Link](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/Cashtastrophe/Minecraft-Adventures-Plus)‎ ‎  [![Discord Link](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.gg/uMMnmnp5Be)
 > Expaned breif summary goes here.....
 
@@ -36,6 +34,9 @@ Please use Modrinth to download the modpack, it is not downloadable here.
 
 - ### ⚡ Optimized & Shaders
   > Optimized configs ensure smooth performance, with pre-enabled Complementary Reimagined Shaders for an improved graphical experience.
+
+- ### ➕ And More
+  > Fany many other features found over 150+ mods!
 
 ‎ 
 ----
