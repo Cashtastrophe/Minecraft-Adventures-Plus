@@ -7,14 +7,14 @@
         "releasedAt": 987654321098765,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/project/adventures-plus/versions",
+                "modrinth": "https://modrinth.com/project/adventures-plus/versions"
             }
         }
     },
 
     {
         "id": "5",
-        "releasedAt": 987654321098765,
+        "releasedAt": 987654321098765
     }
 ]
 
