@@ -2,7 +2,7 @@ Please use Modrinth to download the modpack, it is not downloadable here.
 -
 
 <h1 align="center">
-  <img src="images/name.png" alt="minecraft reloaded+ thumbnail">
+  <img src="https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/name.png" alt="minecraft reloaded+ thumbnail">
 </h1>
 
 <div align="center">
@@ -13,7 +13,7 @@ Please use Modrinth to download the modpack, it is not downloadable here.
 
 </div>
 
-> Expaned breif summary goes here.....
+> A compilation of mods that overhauls Minecraft while also adding its own features without drifting to far from the base game!
 
 ## **✨ Vanilla+**
 > I’ve always wanted a modpack that adds features that fit naturally with the game, but the ones I’ve tried either added too much or too little. So I decided to make my own modpack that adds many vanilla+ features without drastically changing the game. I hope you enjoy this modpack just as much as I did making it!
@@ -51,6 +51,6 @@ Please use Modrinth to download the modpack, it is not downloadable here.
 ----
 ‎Bug reports & feedback: [here](https://github.com/Cashtastrophe/Minecraft-Adventures-Plus/issues/new/choose)
 
-Mod list: [here](https://example.com)
+Mod list: still working on that
 
 Thank you for downloading my modpack 💖
