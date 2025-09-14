@@ -3,13 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "1.0",
-        "releasedAt": 100,
+        "id": "1.0.0",
+        "releasedAt": 123456789,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
+                "modrinth": "https://modrinth.com/project/adventures-plus/versions",
             }
         }
     }
