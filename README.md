@@ -1,9 +1,10 @@
-Please use Modrinth to download the modpack, it is not downloadable here.
--
-
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/name.png" alt="minecraft reloaded+ thumbnail">
+  Please use Modrinth to download the modpack, it is not downloadable here.
 </h1>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/banner.png" alt="minecraft reloaded+ thumbnail">
+</h3>
 
 <div align="center">
   
