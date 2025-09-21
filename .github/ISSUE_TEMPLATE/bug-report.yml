@@ -36,7 +36,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Steps to reproduce (optional)
+      label: Steps to reproduce (if known)
       description: Steps to reproduce the behavior.
       placeholder: |
         1. Go to '...'
