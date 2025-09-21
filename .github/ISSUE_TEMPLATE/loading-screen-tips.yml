@@ -2,22 +2,35 @@ name: 📃 Loading Tips
 description: Request to edit, remove, or change a loading screen tip.
 labels: [tips]
 body:
+  - type: markdown
+    attributes:
+      value: "## Tips are located in config/openloader/resources/MCA+-Tipsv9.9.9/assets/tips/tips"
+      value: "# Please ensure to list the **EXACT** file name in the change or remove section"
   - type: textarea
     attributes:
       label: Describe tip you would like to add
       description: A new, helpful tip to be added to the game.
+      placeholder: |
+        The mod the tip comes from -  
+        Tip content to be added -
     validations:
       required: false
   - type: textarea
     attributes:
       label: Describe tip you would like to remove
       description: Remove a unhelpful or wrong tip.
+      placeholder: |
+        The **EXACT** file name -  
+        Tip content to be changed -
     validations:
       required: false
   - type: textarea
     attributes:
       label: Describe tip you would like to change
       description: Change a tip to be more helpful, update it, or fix other issues.
+      placeholder: |
+        The **EXACT** file name -  
+        Why it should be removed -
     validations:
       required: false
 
