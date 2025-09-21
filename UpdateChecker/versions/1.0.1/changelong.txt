@@ -8,7 +8,7 @@ Removed
   - 
   
 Fixes
-  - 
+  - Advanced Tools Tips are no longer on by default
 
 Changes
   - Modpack Update Checker will now use the name Adventures+ insted of Minecraft Adventures+ for a smaller UI footprint
