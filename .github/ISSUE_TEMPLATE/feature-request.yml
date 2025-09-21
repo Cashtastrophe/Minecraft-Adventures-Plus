@@ -1,0 +1,23 @@
+name: ✨ Feature Request
+description: Suggest an idea for this project.
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the feature
+      description: A clear and concise description of the idea you have. Please try and include screenshots or videos.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Projects that add this (if known)
+      description: List any mods/resource packs/shaders/data packs that would add this feature.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional info (optional)
+      description: Add any other info here.
+    validations:
+      required: false
+
