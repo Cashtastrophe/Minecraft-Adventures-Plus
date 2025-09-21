@@ -1,0 +1,23 @@
+name: 📃 Loading Tips
+description: Request to edit, remove, or change a loading screen tip.
+labels: [tips]
+body:
+  - type: textarea
+    attributes:
+      label: Describe tip you would like to add
+      description: A new, helpful tip to be added to the game.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Describe tip you would like to remove
+      description: Remove a unhelpful or wrong tip.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Describe tip you would like to change
+      description: Change a tip to be more helpful, update it, or fix other issues.
+    validations:
+      required: false
+
