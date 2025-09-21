@@ -2,15 +2,21 @@ Version 1.0.1
 
 Added
   - Controling | easier to use kybind menue
-  - (Resource Pack) (Bee's) Fancy Crops | nicer looking crops
+  - [Resource Pack] (Bee's) Fancy Crops | nicer looking crops
 
 Removed
-  -
+  - 
   
 Fixes
-  -
+  - 
 
 Changes
-  -
+  - Modpack Update Checker will now use the name Adventures+ insted of Minecraft Adventures+ for a smaller UI footprint
 
-Updated all mods 
+~ Updated all mods ~
+
+Download on Modrinth - https://modrinth.com/project/adventures-plus
+Discord - https://discord.gg/uMMnmnp5Be
+Issues - https://github.com/Cashtastrophe/Minecraft-Adventures-Plus/issues/new/choose
+
+Thanks for dowloading :)
