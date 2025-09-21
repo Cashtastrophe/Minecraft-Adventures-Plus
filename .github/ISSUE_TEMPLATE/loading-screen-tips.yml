@@ -23,7 +23,7 @@ body:
       description: Remove a unhelpful or wrong tip.
       value: |
         The **EXACT** file name - 
-        Tip content to be changed - 
+        Why it should be removed - 
     validations:
       required: false
   - type: textarea
@@ -32,7 +32,7 @@ body:
       description: Change a tip to be more helpful, update it, or fix other issues.
       value: |
         The **EXACT** file name - 
-        Why it should be removed - 
+        Tip content to be changed - 
     validations:
       required: false
 
