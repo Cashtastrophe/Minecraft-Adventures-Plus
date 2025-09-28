@@ -1,3 +1,13 @@
+[Shader Update]
+Mod Changes
+ - Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - Added [NaNny Reforked](https://www.curseforge.com/minecraft/mc-mods/nanny-reforked) (by adam98991)
+ - Removed [Eldritch End](https://www.curseforge.com/minecraft/mc-mods/eldritch-end) (Caused many issues and adds almost no content)
+ - Removed [NaNny ](https://www.curseforge.com/minecraft/mc-mods/nanny) (Replaced)
+ - Removed [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books) (Replaced a long time ago)
+ - Updated 20 mods
+
+
 Version 1.0.1 - HUD & Keybind Update
 
 
