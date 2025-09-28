@@ -46,7 +46,7 @@
   > Optimized configs ensure smooth performance, with pre-enabled Complementary Reimagined Shaders for an improved graphical experience.
 
 - ### ➕ And More
-  > Fany many other features found over 150+ mods!
+  > And many other features found over 150+ mods!
 
 ‎ 
 ----
