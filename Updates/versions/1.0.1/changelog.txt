@@ -8,7 +8,6 @@ Added
 
   - Controling \\ Easier to use kybind menu
   - [Resource Pack] (Bee's) Fancy Crops \\ Nicer looking crops
-  - Sounds \\ New sounds
   - Default Options \\ Devloper utility for keybinds
   - Immersive Snow \\ Fixes small issues with Serene Seasons's winter snow
   - SeasonHUD \\ Allows you to equip a calender in your Charm Slot to see it in your HUD. (works with Map Atlais)
@@ -26,6 +25,7 @@ Removed
 Fixes
 
   - Advanced Tools Tips are no longer on by default.
+  - Removed some storage upgrades from the Storage Drawers mod that where casuing balancing issues.
 
 
 Changes
