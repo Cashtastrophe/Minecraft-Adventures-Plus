@@ -10,6 +10,7 @@ IMPORTANT - Due to a major config change with Modpack Update Checker, older worl
   - Immersive Snow ``\\ Fixes small issues with Serene Seasons's winter snow``
   - SeasonHUD ``\\ Allows you to equip a calender in your Charm Slot to see it in your HUD. (works with Map Atlais)``
   - Sparse Structures ``\\ Replaces Sparse Structures Reforged``
+  - More Offhand Slots ``\\ Allows you to have 3 offhand slots``
 
 **Removed**
   - MC+ Extra Advancements ``\\ Advancements did not fit what I wanted``
