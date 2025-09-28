@@ -1,6 +1,7 @@
 name: 📃 Loading Tips
 description: Request to edit, remove, or change a loading screen tip.
 labels: [tips]
+title: "[TIPS] "
 body:
   - type: markdown
     attributes:
