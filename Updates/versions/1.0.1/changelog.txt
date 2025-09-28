@@ -10,9 +10,8 @@ Added
   - [Resource Pack] (Bee's) Fancy Crops \ Nicer looking crops
   - Default Options \ Devloper utility for keybinds
   - Immersive Snow \ Fixes small issues with Serene Seasons's winter snow
-  - SeasonHUD \ Allows you to equip a calender in your Charm Slot to see it in your HUD. (works with Map Atlais)
+  - SeasonHUD \ Allows you to equip a calender in your curio slot to see it in your HUD. (works with Map Atlais)
   - Sparse Structures \ Replaces Sparse Structures Reforged
-  - More Offhand Slots \ Allows you to have 3 offhand slots
 
 
 Removed
