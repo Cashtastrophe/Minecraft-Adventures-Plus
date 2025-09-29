@@ -1,1 +1,17 @@
+[Version 1.0.2] - (HOTFIX) HUD & Keybind Update
 
+
+Fixes
+
+  - Shaders are now on by default.
+  - The current season will no longer show up without a calender.
+
+
+Dowloads
+
+  - Download on Modrinth - https://modrinth.com/project/adventures-plus
+  - Discord - https://discord.gg/uMMnmnp5Be
+  - Issues - https://github.com/Cashtastrophe/Minecraft-Adventures-Plus/issues/new/choose
+
+
+Thanks for dowloading :)
