@@ -1,15 +1,30 @@
 [Version 1.0.2] - (HOTFIX) HUD & Keybind Update
 
 
+Added
+
+  - Rethinking Voxles Shaders // a little diffrent style if you want it (not enabled by default)
+
+
+Removed
+
+  - Complementary Unbound Shaders //  almost the exact same as Complementary Reimagined Shaders
+
+
 Fixes
 
-  - Shaders are now on by default.
+  - Shaders are now on by default. (Complementary Reimagined Shaders)
   - The current season will no longer show up without a calender.
 
 
-Dowloads
+Chnages
 
-  - Download on Modrinth - https://modrinth.com/project/adventures-plus
+  - Disabled the "Red Trader" from supplementaries.
+
+
+Links
+
+  - Modrinth - https://modrinth.com/project/adventures-plus
   - Discord - https://discord.gg/uMMnmnp5Be
   - Issues - https://github.com/Cashtastrophe/Minecraft-Adventures-Plus/issues/new/choose
 
