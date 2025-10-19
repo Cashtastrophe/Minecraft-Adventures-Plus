@@ -1,4 +1,4 @@
-[Version 1.0.2] - (HOTFIX) HUD & Keybind Update
+[Version 1.0.3] - (HOTFIX) HUD & Keybind Update
 
 
 Added
@@ -20,6 +20,10 @@ Fixes
 Chnages
 
   - Disabled the "Red Trader" from supplementaries.
+  - Folder "resourcepacks" will no longer be included in dowloads.
+  - Folder "defaultconfigs" will now be included to override the folders "
+  - Version in game now reflects the dowloaded version insted of saying (1.0.1) - forgot to chnage the config last time...
+  - Updated all mods.
 
 
 Links
