@@ -1,4 +1,4 @@
-[Version 1.0.3] - (HOTFIX) HUD & Keybind Update
+[Version 1.0.2] - (HOTFIX) HUD & Keybind Update
 
 
 Added
