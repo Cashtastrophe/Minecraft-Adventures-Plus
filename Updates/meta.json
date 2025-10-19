@@ -20,6 +20,15 @@
                 "modrinth": "https://modrinth.com/project/adventures-plus/versions/1.0.1"
             }
         }
+    },
+    {
+        "id": "1.0.2",
+        "releasedAt": 987654321098765,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/project/adventures-plus/versions/1.0.2"
+            }
+        }
     }
 ]
 
