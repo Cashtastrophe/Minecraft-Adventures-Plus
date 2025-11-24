@@ -21,7 +21,7 @@ Chnages
 
   - Disabled the "Red Trader" from supplementaries.
   - Folder "resourcepacks" will no longer be included in dowloads.
-  - Folder "defaultconfigs" will now be included to override the folders "
+  - Folder "defaultconfigs" will now be included to override the folders.
   - Updated all mods.
 
 
