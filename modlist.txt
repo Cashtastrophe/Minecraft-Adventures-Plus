@@ -148,3 +148,10 @@ YUNG’s Better Ocean Monuments
 YUNG’s Better Strongholds
 YUNG’s Better Witch Huts
 Zeta
+
+If you are wondering how to get this for your own mod pack:
+- Open PowerSehll/Console
+- type "cd MODfolderHERE"
+- type "dir -Name > modlist.txt"
+- open modlist.txt and send it to chatgpt to clean it up a lil
+- enjoy :)
