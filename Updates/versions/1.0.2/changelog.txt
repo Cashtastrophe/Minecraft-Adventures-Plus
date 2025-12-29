@@ -3,7 +3,7 @@
 
 Added
 
-  - Rethinking Voxles Shaders // a little diffrent style if you want it (not enabled by default)
+  - Nothing new here...
 
 
 Removed
@@ -21,7 +21,10 @@ Chnages
 
   - Disabled the "Red Trader" from supplementaries.
   - Folder "resourcepacks" will no longer be included in dowloads.
-  - Folder "defaultconfigs" will now be included to override the folders.
+  - Folder "defaultconfigs" and "kubejs" will now be included to override the folders.
+  - Cleaned up config folder to not have any configs from removed mods.
+  - Updated CrashAssistant configs to link to the correct discord.
+  - Changed the main menu so that way Discord is now a button.
   - Updated all mods.
 
 
