@@ -1,1 +1,31 @@
+[Version 1.0.3] - The _ Update
 
+
+Added
+
+  - Nothing new here...
+
+
+Removed
+
+  - Nothing new here...
+
+
+Fixes
+
+  - Nothing new here...
+
+
+Chnages
+
+  - Nothing new here...
+
+
+Links
+
+  - Modrinth - https://modrinth.com/project/adventures-plus
+  - Discord - https://discord.gg/uMMnmnp5Be
+  - Issues - https://github.com/Cashtastrophe/Minecraft-Adventures-Plus/issues/new/choose
+
+
+Thanks for dowloading :)
