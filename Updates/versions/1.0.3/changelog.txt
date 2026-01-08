@@ -1,14 +1,18 @@
+THIS UPDATE HAS NOT BEEN RELEASED AND IS NOT DOWLOADABLE!!
+
 [Version 1.0.3] - The _ Update
 
 
 Added
 
-  - Nothing new here...
+  - [Resource Pack] Enchant Icons \ makes magic even more magical
+  - [Resource Pack] Mob Crates \ the original pack before it became an offical update
 
 
 Removed
 
-  - Nothing new here...
+  - More Pottery Sherd \ removing bloat
+  - Sherd API \ More Pottery Sherd API
 
 
 Fixes
@@ -18,7 +22,7 @@ Fixes
 
 Chnages
 
-  - Nothing new here...
+  - Updated mods.
 
 
 Links
