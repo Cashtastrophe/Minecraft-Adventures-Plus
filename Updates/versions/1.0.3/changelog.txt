@@ -12,17 +12,17 @@ Added
 Removed
 
   - More Pottery Sherd \ removing bloat
-  - Sherd API \ More Pottery Sherd API
+  - Sherd API \ More Pottery Sherd dependancy
 
 
 Fixes
 
-  - Nothing new here...
+  - Changed setting in Quark to prevent it from generating texture packs and also disabled some messages it was sending.
 
 
 Chnages
 
-  - Updated mods.
+  - Updated all the mods.
 
 
 Links
