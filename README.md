@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/main/images/banner.png" alt="minecraft reloaded+ thumbnail">
+  <img src="https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Adventures-Plus/refs/heads/(MAIN)-v1.0.2/images/banner.png" alt="minecraft reloaded+ thumbnail">
 </h3>
 
 <div align="center">
